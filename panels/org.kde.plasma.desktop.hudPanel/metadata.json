@@ -1,0 +1,27 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "jamie.maynard@me.com",
+                "Name": "Jamie Maynard"
+            }
+        ],
+        "Category": "",
+        "Description": "Small HUD Panel with useful widgets",
+        "Description[en_GB]": "Small HUD Panel with useful widgets",
+        "EnabledByDefault": true,
+        "Id": "org.kde.plasma.desktop.hudPanel",
+        "License": "LGPLv2+",
+        "Name": "HUD Panel",
+        "Name[en_GB]": "HUD Panel",
+        "ServiceTypes": [
+            "Plasma/LayoutTemplate"
+        ],
+        "Version": "1.0",
+        "Website": "https://www.kde.org/plasma-desktop"
+    },
+    "X-Plasma-ContainmentCategories": [
+        "panel"
+    ],
+    "X-Plasma-Shell": "plasmashell"
+}
