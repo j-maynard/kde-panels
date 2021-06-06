@@ -1,0 +1,27 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "jamie.maynard@me.com",
+                "Name": "Jamie Maynard"
+            }
+        ],
+        "Category": "",
+        "Description": "Gnome style Panel with useful widgets",
+        "Description[en_GB]": "Gnome style Panel with useful widgets",
+        "EnabledByDefault": true,
+        "Id": "org.kde.plasma.desktop.gnomePanel",
+        "License": "LGPLv2+",
+        "Name": "Gnome Panel",
+        "Name[en_GB]": "Gnome Panel",
+        "ServiceTypes": [
+            "Plasma/LayoutTemplate"
+        ],
+        "Version": "1.0",
+        "Website": "https://www.kde.org/plasma-desktop"
+    },
+    "X-Plasma-ContainmentCategories": [
+        "panel"
+    ],
+    "X-Plasma-Shell": "plasmashell"
+}

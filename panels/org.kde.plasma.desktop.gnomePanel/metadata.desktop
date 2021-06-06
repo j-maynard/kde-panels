@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Gnome Panel
+Name[en_GB]=Gnome Panel
+Comment=Gnome Style Panel with useful widgets
+Comment[en_GB]=Gnome Style Panel with useful widgets
+Type=Service
+X-KDE-ServiceTypes=Plasma/LayoutTemplate
+X-Plasma-Shell=plasmashell
+X-Plasma-ContainmentCategories=panel
+X-KDE-PluginInfo-Author=Jamie Maynard
+X-KDE-PluginInfo-Email=jamie.maynard@me.com
+X-KDE-PluginInfo-Name=org.kde.plasma.desktop.gnomePanel
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://www.kde.org/plasma-desktop
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-License=LGPLv2+
+X-KDE-PluginInfo-EnabledByDefault=true
